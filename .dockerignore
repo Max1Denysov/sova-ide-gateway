@@ -1,0 +1,9 @@
+# Common
+venv
+.git
+.idea
+**/.pytest_cache
+**/__pycache__
+
+# Specific
+tests_deprecated
